@@ -4,7 +4,7 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/AshutoshGoswami24/text-leech-bot-for-render
+    repo: https://github.com/ashu-ram-g/VJ-Save-Restricted-Content
     branch: main
     autoDeploy: false
     envVars:
@@ -14,7 +14,4 @@ services:
         sync: false
       - key: API_HASH
         sync: false
-      - key: WEBHOOK
-        sync: false
-      - key: PORT
-        sync: false  # Default port value, update if needed
+      
