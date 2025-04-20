@@ -65,7 +65,9 @@ https://t.me/c/xxxx/101 - 120
 _note that space in between doesn't matter_
 
 ---
+## Deploy To Render                  
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ashu-ram-g/VJ-Save-Restricted-Content)
 ## Credits
 
 - <b>Thanks To [BipinKrish](https://github.com/bipinkrish) For Base Repo
